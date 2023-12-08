@@ -30,3 +30,6 @@ Crear una pagina de reviews para videos de youtube con React y Firebase
 - Utilizar Typescript
 - Subir WIP para poder dar feedback temprano y participacion por Github
 - Poner un video Mostrando su trabajo
+
+
+Preguntas o comentarios https://discord.gg/RRnQQTmZ hay un canal del bounty.
