@@ -17,17 +17,17 @@ Fecha Limite de entrega Primera semana del 2024
 Crear una pagina de reviews para videos de youtube con React y Firebase
 
 ## Objetivos
-- Usar Vite para crear una SPA de React
+- Usar Vite para crear una SPA de Con (Vue, React o Svelte)
 - Subir Commits organizados
 - Mostrar un Video por defecto
-- Permitir iniciar session con Google y/o Correo y contraseña
-- Poder dejar comentarios sobre el video mostrando el nombre del usuario que comento
+- Permitir iniciar session con Google y/o Correo y contraseña (firebase)
+- Poder dejar comentarios sobre el video mostrando el nombre del usuario que comento (firebase)
 - Poder responder a los comentarios que otros usuarios dejaron o el mismo usuario dejo
 - Los usuarios pueden reaccionar a los comentarios con Like y No Like
 
 ## Puntos Extra
 - Tener un admin que pueda borrar comentarios
-- Utilizar Typescript
+- Utilizar Typescript o JsDocs
 - Subir WIP para poder dar feedback temprano y participacion por Github
 - Poner un video Mostrando su trabajo
 
